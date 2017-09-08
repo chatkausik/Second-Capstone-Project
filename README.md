@@ -16,6 +16,7 @@ Also, we hypothesize that in order to determine style, it is important to preser
 #####################################################
 
 Trained different classification models including SVM, RANDOM FOREST, ADABOOST etc and predicts artists from different art batches per artist(2/3/10/50 artist arts).
+
 Artist_Identification_from_Arts_2Artists.ipynb
 
 Artist_Identification_from_Arts-3Artists.ipynb
@@ -23,3 +24,6 @@ Artist_Identification_from_Arts-3Artists.ipynb
 Artist_Identification_from_Arts-10Artists.ipynb
 
 Artist_Identification_from_Arts-50Artists.ipynb
+
+#####################################################
+
