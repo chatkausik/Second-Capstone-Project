@@ -25,8 +25,10 @@ Artist_Identification_from_Arts-10Artists.ipynb
 
 Artist_Identification_from_Arts-50Artists.ipynb
 
-Classifying Pablo Picasso Arts from other Artists with 74% accuracy.
+Base CNN to Resnet-18 Transfer learning:
+TrainArtists-Subset.ipynb
 
+Classifying Pablo Picasso Arts from other Artists with 74% accuracy:
 Classifying Pablo Picasso Arts from other Artists.ipynb
 
 #####################################################
