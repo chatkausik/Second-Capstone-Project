@@ -46,23 +46,30 @@ This loss function ensures that our network is constantly trying to maximize the
 # STEP-6 Evaluation:
 # STEP-7 Conclusion:
 
-#####################################################
+## Jupyter Notebooks for different experiements.
 
 Trained different classification models including SVM, RANDOM FOREST, ADABOOST etc and predicts artists from different art batches per artist(2/3/10/50 artist arts).
 
-Artist_Identification_from_Arts_2Artists.ipynb
+# Artist_Identification_from_Arts_2Artists.ipynb
+       --Sample 1000 paintings from 2 artist(500 arts each) --84% classification accuracy, 84% precision/recall.
 
-Artist_Identification_from_Arts-3Artists.ipynb
+# Artist_Identification_from_Arts-3Artists.ipynb
+       --Sample 1500 paintings from 3 artists(500 arts each) --79% classification accuracy, 79% precision/recall.
+       
+# Artist_Identification_from_Arts-10Artists.ipynb
+       --Sample 5000 paintings from 10 artists(500 arts each) --49% classification accuracy, 49% precision/recall.
+       
+# Artist_Identification_from_Arts-50Artists.ipynb
+       --Sample 22629 paintings from 50 artists --34% classification accuracy, 34% precision/recall.
 
-Artist_Identification_from_Arts-10Artists.ipynb
+# Artist Identification with Convolutional Neural Networks 
+       --Sample 1000 paintings for 3 artists CNN model.
+       
+# TrainArtists-Subset.ipynb
+       --Base CNN to Resnet-18 Transfer learning.
 
-Artist_Identification_from_Arts-50Artists.ipynb
-
-Base CNN to Resnet-18 Transfer learning:
-TrainArtists-Subset.ipynb
-
-Classifying Pablo Picasso Arts from other Artists with 74% accuracy:
-Classifying Pablo Picasso Arts from other Artists.ipynb
-
-#####################################################
+# Classifying Pablo Picasso Arts from other Artists-Final.ipynb
+       --Classifying Pablo Picasso Arts from other Artists with 74% accuracy:
+       
+#####################################################The End #################################################################
 
